@@ -1,5 +1,9 @@
-### Hi there 👋
+<h1 align="center" dir="auto">👋 Hi i'm Ludo</h1>
+<h3 align="center" dir="auto">A fresh new Python developper 😊</h3>
 
+<br>
+<br>
+🚧 I'll put here more information on me, very soon 🚧
 <!--
 **LudoTreb/LudoTreb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
