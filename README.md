@@ -7,7 +7,7 @@
 <p align="center" dir="auto">🚧 I'll put here more information on me, very soon 🚧</p>
 
 <br>
-<!--
+
 ## 🔭 I’m currently working on
 
 projet 1 | projet 2 
@@ -41,7 +41,7 @@ if you.is_player:
 ```
 <br>
 
-## 💻 Skills 
+## 🧩 Skills 
 
 | Tools           |   Level    |   Langages   |   Level    |
 | :---            |   :---:    |    :---:     |   :---: 
@@ -56,7 +56,7 @@ if you.is_player:
 
 
 
-## 🆙 Some stats
+## 🚀 Some stats
 [![Les Stats GitHub de LudoTreb](https://github-readme-stats.vercel.app/api?username=LudoTreb)](https://github.com/LudoTreb/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=LudoTreb&theme=light)](https://git.io/streak-stats)
 
 <br>
@@ -66,7 +66,7 @@ if you.is_player:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ludthx)   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([lien](https://www.linkedin.com/in/ludotreb/))   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/loudo_t?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
  
 
-
+<!--
 
 <table align="center">
     <thead>
