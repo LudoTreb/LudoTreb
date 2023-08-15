@@ -7,7 +7,7 @@
 <p align="center" dir="auto">🚧 I'll put here more information on me, very soon 🚧</p>
 
 <br>
-
+<!--
 ## 🔭 I’m currently working on
 
 projet 1 | projet 2 
@@ -20,13 +20,14 @@ Mettre lien Github P1    Mettre lien Github P2
 ## 🌱 Actually learning
 
 I'm reading : ["Obey the testing goat!"](http://www.obeythetestinggoat.com/) to improve my skill 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+
+> "Do Nothing Until You Have a Test"
 
 ## 📌 Todo list
 - [x] Python Basics
 - [ ] Enhance my coding skills by learning within a company alongside senior developers
 - [ ] Contribuate Blender community
-- [ ] Trouvé comment exploité cette liste
+- [ ] ...
 
 
 
@@ -36,7 +37,7 @@ I'm reading : ["Obey the testing goat!"](http://www.obeythetestinggoat.com/) to 
 you = Instance.TableTennisPlayer(name="your_name", is_player=True)
 
 if you.is_player:
-    print(f"We must meet to play together 🏓❣️😊")
+    print("We must meet to play together 🏓❣️😊")
 ```
 <br>
 
@@ -66,7 +67,7 @@ if you.is_player:
  
 
 
-<!--
+
 <table align="center">
     <thead>
         <tr>
