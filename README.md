@@ -8,16 +8,36 @@
 
 <br>
 
-<!--
-
+<!---
 ## 🔭 I’m currently working on
 
-projet 1 | projet 2 
+<table align="left">
+  <tr>
+    <th>🚀</th>
+    <th><a href="https://github.com/LudoTreb/CompressIMG">Project: CompressIMG</a></th>
+  </tr>
+  <tr>
+    <td>Description</td>
+    <td>CompressIMG is a streamlit application. <br>It allows users to upload images and<br>compress them while providing various<br>customization options.<br><br><br></td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <th>🥁</th>
+    <th>Project #001: name</th>
+  </tr>
+  <tr>
+    <td>Description</td>
+    <td>Lorem ipsum dolor sit amet, <br>
+        consectetur adipiscing elit.<br>
+        Sed at pretium nibh, vel tincidunt sem.<br>
+        Proin nec eros nec sapien venenatis euismod.<br>
+        Duis vitae blandit risus.<br>
+        Integer id mattis orci.</td>
+  </tr>
+</table>
 
-Mettre lien Github P1    Mettre lien Github P2 
 <br>
-<br>
-
 
 ## 🌱 Actually learning
 
@@ -25,8 +45,12 @@ I'm reading : ["Obey the testing goat!"](http://www.obeythetestinggoat.com/) to 
 
 > "Do Nothing Until You Have a Test"
 
+<br>
+
 ## 📌 Todo list
 - [x] Python Basics
+- [x] Build small projects that will help me solidify my knowledge
+- [ ] Get hired by a company
 - [ ] Enhance my coding skills by learning within a company alongside senior developers
 - [ ] Contribuate Blender community
 - [ ] ...
@@ -36,10 +60,12 @@ I'm reading : ["Obey the testing goat!"](http://www.obeythetestinggoat.com/) to 
 ## ⚡ Fun fact
 
 ```python
-you = Instance.TableTennisPlayer(name="your_name", is_player=True)
+from tabletennis import Player
+
+you = Player(name="your_name", is_player=True)
 
 if you.is_player:
-    print("We must meet to play together 🏓❣️😊")
+    print(f"👋 Hi {you.name}, it will be great to meet up around a table tennis 🏓❣️😊")
 ```
 <br>
 
@@ -51,22 +77,22 @@ if you.is_player:
 | VScode          | 🟧🟧🟧⬜️  | Python       | 🟧🟧🟧⬜️  |
 | PyCharm         | 🟧🟧🟧⬜️  | Django       | 🟧🟧🟧⬜️  |      
 | Git & GitHub    | 🟧🟧🟧⬜️  | Django Rest  | 🟧🟧🟧⬜️  |      
-| Postman         | 🟧🟧⬜️⬜️  | HTML         | 🟧🟧🟧⬜️  |      
-| PostgreSQL      | 🟧🟧⬜️⬜️  | CSS          | 🟧🟧🟧⬜️  |      
-| Figma           | 🟧🟧⬜️⬜️  | JS           | 🟧🟧🟧⬜️  |      
-| Notion          | 🟧🟧⬜️⬜️  | SQL          | 🟧🟧🟧⬜️  |      
+| Postman         | 🟧🟧⬜️⬜️  | HTML         | 🟧🟧⬜️⬜️  |      
+| PostgreSQL      | 🟧🟧⬜️⬜️  | CSS          | 🟧🟧⬜️⬜️  |      
+| Figma           | 🟧🟧⬜️⬜️  | JS           | 🟧🟧⬜️⬜️  |      
+| Notion          | 🟧🟧⬜️⬜️  | SQL          | 🟧⬜️⬜️⬜️  |      
 
-
+<br>
 
 ## 🚀 Some stats
 [![Les Stats GitHub de LudoTreb](https://github-readme-stats.vercel.app/api?username=LudoTreb)](https://github.com/LudoTreb/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=LudoTreb&theme=light)](https://git.io/streak-stats)
 
 <br>
 
-## 🎯 You can also find me here 
+<h1 align="center" dir="auto">🎯 You can also find me here</h1>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ludthx)   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([lien](https://www.linkedin.com/in/ludotreb/))   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/loudo_t?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
- 
+
 
 <!--
 
