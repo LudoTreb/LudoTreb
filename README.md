@@ -7,7 +7,7 @@
 <p align="center" dir="auto">🚧 I'll put here more information on me, very soon 🚧</p>
 
 <br>
-
+<!--
 
 ## 🔭 I’m currently working on
 
