@@ -5,9 +5,9 @@
 <br>
 
 <p align="center" dir="auto">🚧 I'll put here more information on me, very soon 🚧</p>
-
-<br>
 <!--
+<br>
+
 
 ## 🔭 I’m currently working on
 
@@ -39,6 +39,7 @@
 
 <br>
 
+
 ## 🌱 Actually learning
 
 I'm reading : ["Obey the testing goat!"](http://www.obeythetestinggoat.com/) to improve my skill 
@@ -69,17 +70,18 @@ if you.is_player:
 ```
 <br>
 
+
 ## 🧩 Skills 
 
 | Tools           |   Level    |   Langages   |   Level    |
 | :---            |   :---:    |    :---:     |   :---: 
-|                 |    ![firework_export 00-69](https://github.com/LudoTreb/LudoTreb/assets/104355218/d67deae6-3436-47a1-bce3-1767cf838f4b)        |     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LudoTreb&layout=compact)](https://github.com/LudoTreb/github-readme-stats)   | ![firework_export 00-69](https://github.com/LudoTreb/LudoTreb/assets/104355218/d67deae6-3436-47a1-bce3-1767cf838f4b) |
+| ![tools](https://github.com/LudoTreb/LudoTreb/assets/104355218/84cbb7d0-c0e1-4831-82d4-35f360a9b98c)                |    ![firework_export 00-69](https://github.com/LudoTreb/LudoTreb/assets/104355218/d67deae6-3436-47a1-bce3-1767cf838f4b)        |     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LudoTreb&layout=compact)](https://github.com/LudoTreb/github-readme-stats)   | ![firework_export 00-69](https://github.com/LudoTreb/LudoTreb/assets/104355218/d67deae6-3436-47a1-bce3-1767cf838f4b) |
 | VScode          | 🟧🟧🟧⬜️  | Python       | 🟧🟧🟧⬜️  |
 | PyCharm         | 🟧🟧🟧⬜️  | Django       | 🟧🟧🟧⬜️  |      
 | Git & GitHub    | 🟧🟧🟧⬜️  | Django Rest  | 🟧🟧🟧⬜️  |      
 | Postman         | 🟧🟧⬜️⬜️  | HTML         | 🟧🟧⬜️⬜️  |      
 | PostgreSQL      | 🟧🟧⬜️⬜️  | CSS          | 🟧🟧⬜️⬜️  |      
-| Figma           | 🟧🟧⬜️⬜️  | JS           | 🟧🟧⬜️⬜️  |      
+| Figma           | 🟧🟧⬜️⬜️  | Javascript   | 🟧🟧⬜️⬜️  |      
 | Notion          | 🟧🟧⬜️⬜️  | SQL          | 🟧⬜️⬜️⬜️  |      
 
 <br>
@@ -91,7 +93,10 @@ if you.is_player:
 
 <h1 align="center" dir="auto">🎯 You can also find me here</h1>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ludthx)   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([lien](https://www.linkedin.com/in/ludotreb/))   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/loudo_t?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ludthx)   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([lien](https://www.linkedin.com/in/ludotreb/))   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/loudo_t?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D) 
+[![Static Badge](https://img.shields.io/badge/my_resume-%23E3371E?style=for-the-badge&logo=internet%20explorer)](https://ludotreb.github.io/)
+
+
 
 
 
