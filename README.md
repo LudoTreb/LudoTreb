@@ -5,38 +5,43 @@
 <br>
 
 <p align="center" dir="auto">🚧 I'll put here more information on me, very soon 🚧</p>
-<!--
-<br>
 
+<br>
+<!-- 
 
 ## 🔭 I’m currently working on
 
 <table align="left">
   <tr>
-    <th>🚀</th>
-    <th><a href="https://github.com/LudoTreb/CompressIMG">Project: CompressIMG</a></th>
+    <th>►</th>
+    <th colspan='2'>Project: CompressIMG</th>
   </tr>
   <tr>
     <td>Description</td>
-    <td>CompressIMG is a streamlit application. <br>It allows users to upload images and<br>compress them while providing various<br>customization options.<br><br><br></td>
+    <td colspan='2'>CompressIMG is a streamlit application. <br>It allows users to upload images and<br>compress them while providing various<br>customization options.</td>
+  </tr>
+  <tr>
+    <td align="center">Action</td>
+    <td  align="center"><a href="https://compressimg.streamlit.app/">website</a></td> <td align="center"><a href="https://github.com/LudoTreb/CompressIMG">Code</a></td>
   </tr>
 </table>
 <table align="center">
   <tr>
-    <th>🥁</th>
-    <th>Project #001: name</th>
+    <th>🚀</th>
+    <th colspan='2'>Project: 0002</th>
   </tr>
   <tr>
     <td>Description</td>
-    <td>Lorem ipsum dolor sit amet, <br>
-        consectetur adipiscing elit.<br>
-        Sed at pretium nibh, vel tincidunt sem.<br>
-        Proin nec eros nec sapien venenatis euismod.<br>
-        Duis vitae blandit risus.<br>
-        Integer id mattis orci.</td>
+    <td colspan='2'>Lorem.<br><br><br></td>
+  </tr>
+  <tr>
+    <td align="center">Action</td>
+    <td  align="center"><a href="#">website</a></td> <td align="center"><a href="#">Code</a></td>
   </tr>
 </table>
 
+
+<br>
 <br>
 
 
@@ -75,7 +80,7 @@ if you.is_player:
 
 | Tools           |   Level    |   Langages   |   Level    |
 | :---            |   :---:    |    :---:     |   :---: 
-| ![tools](https://github.com/LudoTreb/LudoTreb/assets/104355218/84cbb7d0-c0e1-4831-82d4-35f360a9b98c)                |    ![firework_export 00-69](https://github.com/LudoTreb/LudoTreb/assets/104355218/d67deae6-3436-47a1-bce3-1767cf838f4b)        |     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LudoTreb&layout=compact)](https://github.com/LudoTreb/github-readme-stats)   | ![firework_export 00-69](https://github.com/LudoTreb/LudoTreb/assets/104355218/d67deae6-3436-47a1-bce3-1767cf838f4b) |
+|      ![tools_2](https://github.com/LudoTreb/LudoTreb/assets/104355218/0f60db04-7f2b-4680-877d-54f449fd7dc2)           |    ![firework_export 00-69](https://github.com/LudoTreb/LudoTreb/assets/104355218/d67deae6-3436-47a1-bce3-1767cf838f4b)        |     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LudoTreb&layout=compact)](https://github.com/LudoTreb/github-readme-stats)   | ![firework_export 00-69](https://github.com/LudoTreb/LudoTreb/assets/104355218/d67deae6-3436-47a1-bce3-1767cf838f4b) |
 | VScode          | 🟧🟧🟧⬜️  | Python       | 🟧🟧🟧⬜️  |
 | PyCharm         | 🟧🟧🟧⬜️  | Django       | 🟧🟧🟧⬜️  |      
 | Git & GitHub    | 🟧🟧🟧⬜️  | Django Rest  | 🟧🟧🟧⬜️  |      
@@ -93,8 +98,9 @@ if you.is_player:
 
 <h1 align="center" dir="auto">🎯 You can also find me here</h1>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ludthx)   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([lien](https://www.linkedin.com/in/ludotreb/))   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/loudo_t?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D) 
-[![Static Badge](https://img.shields.io/badge/my_resume-%23E3371E?style=for-the-badge&logo=internet%20explorer)](https://ludotreb.github.io/)
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ludthx)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([lien](https://www.linkedin.com/in/ludotreb/)) [![Static Badge](https://img.shields.io/badge/my_resume-%23E3371E?style=for-the-badge&logo=internet%20explorer)](https://ludotreb.github.io/)
+
 
 
 
