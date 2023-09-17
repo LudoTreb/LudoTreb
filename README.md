@@ -1,17 +1,15 @@
 <h1 align="center" dir="auto">👋 Hi i'm Ludo</h1>
 <h3 align="center" dir="auto">A fresh new Python developper 😊</h3>
 
-
+<!--
 <br>
-
 <p align="center" dir="auto">🚧 I'll put here more information on me, very soon 🚧</p>
-
+-->
 <br>
-<!-- 
 
 ## 🔭 I’m currently working on
 
-<table align="left">
+<table align="center">
   <tr>
     <th>►</th>
     <th colspan='2'>Project: CompressIMG</th>
@@ -25,24 +23,6 @@
     <td  align="center"><a href="https://compressimg.streamlit.app/">website</a></td> <td align="center"><a href="https://github.com/LudoTreb/CompressIMG">Code</a></td>
   </tr>
 </table>
-<table align="center">
-  <tr>
-    <th>🚀</th>
-    <th colspan='2'>Project: 0002</th>
-  </tr>
-  <tr>
-    <td>Description</td>
-    <td colspan='2'>Lorem.<br><br><br></td>
-  </tr>
-  <tr>
-    <td align="center">Action</td>
-    <td  align="center"><a href="#">website</a></td> <td align="center"><a href="#">Code</a></td>
-  </tr>
-</table>
-
-
-<br>
-<br>
 
 
 ## 🌱 Actually learning
@@ -133,6 +113,22 @@ if you.is_player:
             <td>L3 Name D</td>
         </tr>
     </tbody>
+</table>
+
+
+<table align="center">
+  <tr>
+    <th>🚀</th>
+    <th colspan='2'>Project: 0002</th>
+  </tr>
+  <tr>
+    <td>Description</td>
+    <td colspan='2'>Lorem.<br><br><br></td>
+  </tr>
+  <tr>
+    <td align="center">Action</td>
+    <td  align="center"><a href="#">website</a></td> <td align="center"><a href="#">Code</a></td>
+  </tr>
 </table>
 
 
