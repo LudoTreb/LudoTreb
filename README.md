@@ -72,10 +72,7 @@ if you.is_player:
 <br>
 
 ## 🚀 Some stats
-[![Les Stats GitHub de LudoTreb](https://github-readme-stats.vercel.app/api?username=LudoTreb)](https://github.com/LudoTreb/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=LudoTreb&theme=light)](https://git.io/streak-stats)
-
-<br>
-
+[![Les Stats GitHub de LudoTreb](https://github-readme-stats.vercel.app/api?username=LudoTreb)](https://github.com/LudoTreb/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats-alpha-ecru.vercel.app?user=LudoTreb&locale=fr&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <h1 align="center" dir="auto">🎯 You can also find me here</h1>
 
 
