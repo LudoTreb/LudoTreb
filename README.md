@@ -76,7 +76,7 @@ if you.is_player:
 <h1 align="center" dir="auto">🎯 You can also find me here</h1>
 
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ludthx)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([lien](https://www.linkedin.com/in/ludotreb/)) [![Static Badge](https://img.shields.io/badge/my_resume-%23E3371E?style=for-the-badge&logo=internet%20explorer)](https://ludotreb.github.io/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ludthx)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludotreb/) [![Static Badge](https://img.shields.io/badge/my_resume-%23E3371E?style=for-the-badge&logo=internet%20explorer)](https://ludotreb.github.io/)
 
 
 
