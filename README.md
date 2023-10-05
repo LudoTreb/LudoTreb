@@ -29,7 +29,6 @@
 
 I'm reading : ["Obey the testing goat!"](http://www.obeythetestinggoat.com/) to improve my skill 
 
-> "Do Nothing Until You Have a Test"
 
 <br>
 
