@@ -12,15 +12,24 @@
 <table align="center">
   <tr>
     <th>►</th>
-    <th colspan='2'>Project: CompressIMG</th>
+    <th colspan='2'>Project: SwappingPlace</th>
   </tr>
   <tr>
     <td>Description</td>
-    <td colspan='2'>CompressIMG is a streamlit application. <br>It allows users to upload images and<br>compress them while providing various<br>customization options.</td>
+    <td colspan='2'>
+<h3>SwappingPlace - Clothing Exchange Marketplace</h3>
+
+A platform dedicated to clothing donations and exchanges among users. SwappingPlace provides an innovative alternative for refreshing your wardrobe without resorting to traditional purchases. Discover clothing that finds a new life with a straightforward process: reserve an item online and pick it up from the donor.
+
+**Key Features:**
+- **Donations and Retrieval:** Foster a sharing-based exchange by reserving an item online and retrieving it from the donor.
+- **Online Launch:** SwappingPlace will be available online by the end of November.
+- **Usage Instructions:** Detailed instructions for using the code will be provided concurrently with the launch.
+</td>
   </tr>
   <tr>
     <td align="center">Action</td>
-    <td  align="center"><a href="https://compressimg.streamlit.app/">website</a></td> <td align="center"><a href="https://github.com/LudoTreb/CompressIMG">Code</a></td>
+    <td  align="center"><a href="#">Coming soon</a></td> <td align="center"><a href="https://github.com/LudoTreb/Swapping-place">Code: Work In Progress</a></td>
   </tr>
 </table>
 
