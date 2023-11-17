@@ -29,7 +29,7 @@ A platform dedicated to clothing donations and exchanges among users. SwappingPl
   </tr>
   <tr>
     <td align="center">Action</td>
-    <td  align="center"><a href="#">Coming soon</a></td> <td align="center"><a href="https://github.com/LudoTreb/Swapping-place">Code: Work In Progress</a></td>
+    <td  align="center"><a href="#">Website: Coming soon</a></td> <td align="center"><a href="https://github.com/LudoTreb/Swapping-place">Code: Work In Progress</a></td>
   </tr>
 </table>
 
