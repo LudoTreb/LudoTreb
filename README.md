@@ -36,8 +36,10 @@ A platform dedicated to clothing donations and exchanges among users. SwappingPl
 
 ## 🌱 Actually learning
 
+I'm reading : ["Django for Professionals"](https://djangoforprofessionals.com/) to improve my skill 
+<!--
 I'm reading : ["Obey the testing goat!"](http://www.obeythetestinggoat.com/) to improve my skill 
-
+-->
 
 <br>
 
